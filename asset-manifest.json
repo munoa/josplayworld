@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/munoa/josplayworld/static/css/main.dab29dd7.css",
+    "main.js": "/munoa/josplayworld/static/js/main.08b0f251.js",
+    "index.html": "/munoa/josplayworld/index.html",
+    "main.dab29dd7.css.map": "/munoa/josplayworld/static/css/main.dab29dd7.css.map",
+    "main.08b0f251.js.map": "/munoa/josplayworld/static/js/main.08b0f251.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dab29dd7.css",
+    "static/js/main.08b0f251.js"
+  ]
+}
