@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/josplayworld/static/css/main.dab29dd7.css",
-    "main.js": "/josplayworld/static/js/main.08b0f251.js",
+    "main.js": "/josplayworld/static/js/main.f757a57d.js",
     "index.html": "/josplayworld/index.html",
     "main.dab29dd7.css.map": "/josplayworld/static/css/main.dab29dd7.css.map",
-    "main.08b0f251.js.map": "/josplayworld/static/js/main.08b0f251.js.map"
+    "main.f757a57d.js.map": "/josplayworld/static/js/main.f757a57d.js.map"
   },
   "entrypoints": [
     "static/css/main.dab29dd7.css",
-    "static/js/main.08b0f251.js"
+    "static/js/main.f757a57d.js"
   ]
 }
